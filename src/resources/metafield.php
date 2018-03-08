@@ -409,7 +409,7 @@ return array(
          */
         "createPageMetafield" => array(
             "httpMethod" => "POST",
-            "uri" => "/admin/page]s/{id}/metafields.json",
+            "uri" => "/admin/pages/{id}/metafields.json",
             "summary" => "Create a new metafield for a page]",
             "responseModel" => "defaultJsonResponse",
             "parameters" => array(
