@@ -60,6 +60,7 @@ return array(
         "page",
         "price-rule",
         "product",
+        "product-listing",
         "product-image",
         "product-variant",
         "province",

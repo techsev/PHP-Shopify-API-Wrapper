@@ -43,8 +43,8 @@ return array(
                 )
             )
         ),
-        
-        
+
+
         /**
          *    getProvinceCount() method
          *
@@ -69,8 +69,8 @@ return array(
                 )
             )
         ),
-        
-        
+
+
         /**
          *    getProvince() method
          *
@@ -101,8 +101,8 @@ return array(
                 )
             )
         ),
-        
-        
+
+
         /**
          *    updateProvince() method
          *
@@ -137,9 +137,9 @@ return array(
                 )
             )
         ),
-        
+
     ),
-    
+
 
     /*
     |--------------------------------------------------------------------------
